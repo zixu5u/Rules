@@ -1,6 +1,7 @@
 # 更新时间2024/5/26
 
 # ❌ 和谐
+payload:
   - DOMAIN-SUFFIX,theepochtimes.com
   - DOMAIN-SUFFIX,epochtimes.com
   - DOMAIN-SUFFIX,minghui.org
