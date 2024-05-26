@@ -2,7 +2,7 @@
 
 #📞 Google voice
 payload:
-  - IP-CIDR,74.125.39.0/24
-  - IP-CIDR,2001:4860:4864:2::0/64
   - DOMAIN,lens.l.google.com
   - DOMAIN-SUFFIX,telephony.goog
+  - IP-CIDR,74.125.39.0/24
+  - IP-CIDR,2001:4860:4864:2::0/64
