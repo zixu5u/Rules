@@ -4,3 +4,4 @@
 payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN,copilot.microsoft.com
