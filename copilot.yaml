@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN,copilot.microsoft.com
   - DOMAIN,www.bing.com
+  - DOMAIN,cn.bing.com
   - DOMAIN,gateway.bingviz.microsoft.net
   - DOMAIN,gateway.bingviz.microsoftapp.net
   - DOMAIN,in.appcenter.ms
