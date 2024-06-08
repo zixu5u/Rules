@@ -2,7 +2,6 @@
 
 # ❌ 和谐
 payload:
-  - DOMAIN,cn.bing.com
   - DOMAIN-SUFFIX,theepochtimes.com
   - DOMAIN-SUFFIX,epochtimes.com
   - DOMAIN-SUFFIX,minghui.org
