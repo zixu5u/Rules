@@ -1,8 +1,10 @@
-# 更新时间2024/5/26
+# 更新时间2024/6/8
 
 #📞 Google voice
 payload:
   - DOMAIN-SUFFIX,telephony.goog
-  - DOMAIN,lens.l.google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleusercontent.com
   - IP-CIDR,74.125.39.0/24
   - IP-CIDR,2001:4860:4864:2::0/64
