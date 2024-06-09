@@ -1,6 +1,6 @@
 # 更新时间2024/5/26
 
-# 📶 VoWifi
+# 🛜 VoWifi
 payload:
   - DOMAIN-SUFFIX,3gppnetwork.org
   - IP-CIDR,208.54.0.0/16
