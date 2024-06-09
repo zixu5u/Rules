@@ -1,8 +1,9 @@
-# 更新时间2024/6/8
+# 更新时间2024/6/9
 
 # ❌ 和谐
 payload:
   - DOMAIN,www.epochtimes.com
+  - DOMAIN-SUFFIX,mhradio.org
   - DOMAIN-SUFFIX,theepochtimes.com
   - DOMAIN-SUFFIX,epochtimes.com
   - DOMAIN-SUFFIX,minghui.org
