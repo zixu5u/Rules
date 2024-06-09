@@ -1,4 +1,4 @@
-# 更新时间2024/6//
+# 更新时间2024/6/9
 
 #📞 Google voice
 payload:
@@ -7,8 +7,8 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - IP-CIDR,74.125.39.0/24
-  - IP-CIDR,74.125.250.0/24
-  - IP-CIDR,142.250.82.0/244
+  - IP-CIDR,74.125.250.0/24 #Google Meet
+  - IP-CIDR,142.250.82.0/24 #Google Meet
   - IP-CIDR,2001:4860:4864:2::0/64
-  - IP-CIDR,2001:4860:4864:5::0/64/64
-  - IP-CIDR,2001:4860:4864:6::0/64
+  - IP-CIDR,2001:4860:4864:5::0/64 #Google Meet
+  - IP-CIDR,2001:4860:4864:6::0/64 #Google Meet
