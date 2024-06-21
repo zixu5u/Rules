@@ -1,10 +1,11 @@
-# 更新时间2024/6/10
+# 更新时间2024/6/21
 
 # ❌ 和谐
 payload:
 DOMAIN,www.epochtimes.com
 DOMAIN-SUFFIX,mhradio.org
 DOMAIN-SUFFIX,dragonsprings.org
+DOMAIN-SUFFIX,feitian.edu
 DOMAIN-SUFFIX,friendsofdragonsprings.org
 DOMAIN-SUFFIX,theepochtimes.com
 DOMAIN-SUFFIX,epochtimes.com
