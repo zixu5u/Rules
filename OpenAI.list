@@ -1,9 +1,10 @@
-# 更新时间2024/7/28
+# 更新时间2024/8/28
 
 # 🔍 OpenAI
 payload:
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
@@ -27,6 +28,8 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN,cdn.usefathom.com
 DOMAIN-KEYWORD,openai
 IP-CIDR,24.199.123.28/32,no-resolve
