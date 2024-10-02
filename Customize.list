@@ -1,4 +1,4 @@
-# 更新时间2024/7/6
+# 更新时间2024/10/2
 
 # ❄ Customize
 payload:
@@ -117,6 +117,9 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,yo9.com
+DOMAIN-SUFFIX,aisee.tv  #云视听
+DOMAIN-SUFFIX,douyinvod.com  #抖音
+DOMAIN-SUFFIX,amemv.com  #抖音
 IP-CIDR,106.75.74.76/32,no-resolve
 IP-CIDR,111.206.25.147/32,no-resolve
 IP-CIDR,119.3.238.64/32,no-resolve
