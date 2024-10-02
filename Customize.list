@@ -117,7 +117,7 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,yo9.com
-DOMAIN-SUFFIX,aisee.tv  #云视听
+DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,douyinvod.com  #抖音
 DOMAIN-SUFFIX,amemv.com  #抖音
 IP-CIDR,106.75.74.76/32,no-resolve
