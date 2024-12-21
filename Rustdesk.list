@@ -1,6 +1,7 @@
-# 更新时间2024/6/10
+# 更新时间2024/12/21
 
 # 🔗 Rustdesk
 payload:
 DOMAIN,rerust.freetun.top
 DOMAIN-SUFFIX,rerust.freetun.top
+DOMAIN,ao.freevm.eu.org
