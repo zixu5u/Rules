@@ -1,0 +1,47 @@
+# 更新时间2025/2/4
+
+# 🎯 全球直连
+
+# Unbreak 白名单 不应该被广告链接的网站
+
+# Epicgames
+DOMAIN-SUFFIX,ol.epicgames.com
+
+# Getui
+DOMAIN-SUFFIX,dizhensubao.getui.com
+
+# Google
+DOMAIN,dl.google.com
+DOMAIN-SUFFIX,googletraveladservices.com
+
+# Mozilla
+DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+
+# Origin
+DOMAIN,origin-a.akamaihd.net
+
+# Tencent
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+
+# Strava
+
+# Umeng
+DOMAIN,errlog.umeng.com
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+
+# Miui 小米
+DOMAIN,tracking.miui.com
+
+# General
+DOMAIN,app.adjust.com
+DOMAIN,bdtj.tagtic.cn
+
+# Hypixel Network
+DOMAIN,rewards.hypixel.net
+
+# Koodo Mobile
+DOMAIN-SUFFIX,koodomobile.com
+DOMAIN-SUFFIX,koodomobile.ca
