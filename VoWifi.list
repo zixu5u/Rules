@@ -1,7 +1,8 @@
-# 更新时间2024/7/6
+# 更新时间2025/2/4
 
 # 🛜 VoWifi
 payload:
+DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,3gppnetwork.org
 IP-CIDR,208.54.0.0/16,no-resolve
 IP-CIDR,66.94.0.0/19,no-resolve
