@@ -1,7 +1,18 @@
-# 更新时间2024/8/28
+# 更新时间2025/2/26
 
 # 🔍 OpenAI
 payload:
+DOMAIN-KEYWORD,deepseek
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,fengkongcloud.cn
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,portal101.cn
+DOMAIN-SUFFIX,portal101.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
