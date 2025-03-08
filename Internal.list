@@ -1,7 +1,9 @@
-# 更新时间2025/2/4
+# 更新时间2025/3/9
 
 # 🐳 Internal
 payload:
+DOMAIN,ha.freetun.top #homeassistant
+DOMAIN,frp.freetun.top #frp
 DOMAIN,rerust.freetun.top #RustDesk远程
 DOMAIN-SUFFIX,rerust.freetun.top #RustDesk远程
 DOMAIN,ao.freevm.eu.org #RustDesk远程
