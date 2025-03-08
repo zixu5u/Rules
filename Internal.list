@@ -2,7 +2,10 @@
 
 # 🐳 Internal
 payload:
-DOMAIN,ha.freetun.top #homeassistant
+DOMAIN,n.freetun.top #frp
+DOMAIN,rn.freetun.top #openwrt
+DOMAIN,cn.freetun.top #openwrt
+DOMAIN,on.freetun.top #Optical modem
 DOMAIN,frp.freetun.top #frp
 DOMAIN,rerust.freetun.top #RustDesk远程
 DOMAIN-SUFFIX,rerust.freetun.top #RustDesk远程
