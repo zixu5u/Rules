@@ -6,5 +6,3 @@ DOMAIN,frp.freetun.top
 DOMAIN,rerust.freetun.top #RustDesk远程
 DOMAIN,ao.freevm.eu.org #RustDesk远程
 DOMAIN,ao.freetun.top
-IP-CIDR,34.208.111.16/32,no-resolve
-IP-CIDR6,2600:1f13:26a:8502:ec08:ae7:8940:7dfa/128,no-resolve
