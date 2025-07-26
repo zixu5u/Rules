@@ -2,12 +2,6 @@
 
 # 🐳 Internal
 payload:
-DOMAIN-SUFFIX,n.freetun.top #frp
-DOMAIN-SUFFIX,rn.freetun.top #openwrt
-DOMAIN-SUFFIX,cn.freetun.top #openwrt
-DOMAIN-SUFFIX,on.freetun.top #Optical modem
-DOMAIN-SUFFIX,rerust.freetun.top #RustDesk远程
-DOMAIN-SUFFIX,ao.freevm.eu.org #RustDesk远程
 DOMAIN-SUFFIX,kityune.imput.net
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
