@@ -2,6 +2,7 @@
 
 # 💢 Customize
 payload:
+DOMAIN,frp.freetun.top
 DOMAIN,rerust.freetun.top #RustDesk远程
 DOMAIN,ao.freevm.eu.org #RustDesk远程
 DOMAIN,ao.freetun.top
