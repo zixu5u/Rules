@@ -1,11 +1,7 @@
-# 更新时间2025/7/16
+# 更新时间2025/8/4
 
 #📞 Google voice
 payload:
-DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,stun.l.google.com
 DOMAIN-SUFFIX,stun1.l.google.com
 DOMAIN-SUFFIX,stun2.l.google.com
